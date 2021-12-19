@@ -1,1 +1,1 @@
-# facial-emotion-detection-and-recognition
+# Facial Emotion Detection and Recognition
